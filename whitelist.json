@@ -1,7 +1,4 @@
 {
-  "permanent": ["12345678"],
-  "temporary": {
-    "23456789": "2025-06-01T00:00:00Z"
-  }
+  "permanent": [],
+  "temporary": {}
 }
-agregada whitelist temporal"
