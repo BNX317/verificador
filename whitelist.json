@@ -1,15 +1,5 @@
 {
-  "permanent": {
-    "12345678": true
-  },
-  "temporary": {
-    "87654321": 1735689600
-  },
-  "gui_access": {
-    "12345678": true,
-    "87654321": true
-  },
-  "circle_access": {
-    "55555555": true
-  }
+  "permanent": [
+    "3243254"
+  ]
 }
