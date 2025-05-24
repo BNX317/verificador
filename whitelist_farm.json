@@ -1,0 +1,5 @@
+// whitelist_farm.json (Ejemplo inicial)
+{
+  "permanent": [],
+  "temporary": {}
+}
